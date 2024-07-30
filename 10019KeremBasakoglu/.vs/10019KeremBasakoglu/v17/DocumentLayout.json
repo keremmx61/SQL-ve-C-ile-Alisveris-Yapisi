@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|c:\\users\\pc\\desktop\\10019kerembasakoglu\\urunekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|solutionrelative:urunekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\siparislistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|solutionrelative:siparislistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\siparislerim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|solutionrelative:siparislerim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\siparislerim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|solutionrelative:siparislerim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|solutionrelative:anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\siparislistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|solutionrelative:siparislistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\urunekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|solutionrelative:urunekleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|solutionrelative:anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\urunsilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|solutionrelative:urunsilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\urunsilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1D0A4C4-72DF-4B5A-BB6A-F822792807D1}|10019KeremBasakoglu.csproj|solutionrelative:urunsilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:59:48.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:33:12.944Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\AnaSayfa.cs",
+              "RelativeToolTip": "AnaSayfa.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:33:00.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnaSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\AnaSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "AnaSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:25:44.351Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SiparisListele.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\SiparisListele.cs",
+              "RelativeDocumentMoniker": "SiparisListele.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\SiparisListele.cs",
+              "RelativeToolTip": "SiparisListele.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:26:23.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SiparisListele.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\SiparisListele.cs",
+              "RelativeDocumentMoniker": "SiparisListele.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\SiparisListele.cs [Tasar\u0131m]",
+              "RelativeToolTip": "SiparisListele.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:33:19.236Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Siparislerim.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\Siparislerim.cs",
+              "RelativeDocumentMoniker": "Siparislerim.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\Siparislerim.cs",
+              "RelativeToolTip": "Siparislerim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:20:22.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Siparislerim.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\Siparislerim.cs",
+              "RelativeDocumentMoniker": "Siparislerim.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\Siparislerim.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Siparislerim.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:33:20.405Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UrunEkleme.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\UrunEkleme.cs",
+              "RelativeDocumentMoniker": "UrunEkleme.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\UrunEkleme.cs",
+              "RelativeToolTip": "UrunEkleme.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:20:15.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UrunEkleme.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\UrunEkleme.cs",
+              "RelativeDocumentMoniker": "UrunEkleme.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\UrunEkleme.cs [Tasar\u0131m]",
+              "RelativeToolTip": "UrunEkleme.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:33:18.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UrunSilme.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\UrunSilme.cs",
+              "RelativeDocumentMoniker": "UrunSilme.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\UrunSilme.cs",
+              "RelativeToolTip": "UrunSilme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:38:47.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UrunSilme.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\10019KeremBasakoglu\\UrunSilme.cs",
+              "RelativeDocumentMoniker": "UrunSilme.cs",
+              "ToolTip": "C:\\Users\\samet\\source\\repos\\10019KeremBasakoglu\\10019KeremBasakoglu\\UrunSilme.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\samet\\source\\repos\\10019KeremBasakoglu\\10019KeremBasakoglu\\UrunSilme.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:33:17.542Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+SELECT MusteriAdi FROM MusteriTablo
